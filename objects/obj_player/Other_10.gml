@@ -1,0 +1,1 @@
+draw_sprite_reflected(sprite, index, x, y);

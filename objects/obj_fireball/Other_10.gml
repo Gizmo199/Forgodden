@@ -1,0 +1,1 @@
+draw_sprite_reflected_ext(sprite_index, image_index, x, (y+8)+z, image_xscale, image_yscale, image_angle, image_blend, image_alpha);

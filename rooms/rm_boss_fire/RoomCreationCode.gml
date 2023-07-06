@@ -1,0 +1,1 @@
+global._bossType = eBOSS_TYPE.FIRE;

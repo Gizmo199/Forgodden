@@ -1,0 +1,1 @@
+physics_world_update_speed(1);

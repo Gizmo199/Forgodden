@@ -1,0 +1,1 @@
+y = ystart + sin(++rot/20)*4;
